@@ -24,6 +24,12 @@
 			<key>Minute</key>
 			<integer>0</integer>
 		</dict>
+		<dict>
+			<key>Hour</key>
+			<integer>16</integer>
+			<key>Minute</key>
+			<integer>0</integer>
+		</dict>
 	</array>
 </dict>
 </plist>
