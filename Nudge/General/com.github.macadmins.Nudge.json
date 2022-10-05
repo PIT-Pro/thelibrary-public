@@ -50,7 +50,7 @@
 	},
 	"userInterface": {
 		"fallbackLanguage": "en",
-		"forceFallbackLanguage": true,
+		"forceFallbackLanguage": false,
 		"forceScreenShotIcon": false,
 		"iconDarkPath": "/Users/Shared/nudge_logo/logo_black.png",
 		"iconLightPath": "/Users/Shared/nudge_logo/logo_white.png",
