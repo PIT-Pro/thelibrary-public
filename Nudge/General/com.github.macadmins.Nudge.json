@@ -89,6 +89,8 @@
         "mainContentSubHeader": "Updates kunnen tot 30 minuten duren",
         "mainContentText": "De installatie van deze update zorgt ervoor dat PIT Pro jouw Mac en data optimaal kan beschermen. \nIndien je de Mac niet tijdig update, verlies je mogelijk toegang tot applicaties die nodig zijn voor je dagelijkse taken. \nOm de update te starten, klik je op de knop Mac Updaten en volg je de aangegeven stappen. \nBij vragen over deze update kun je ons bereiken door te mailen aan support@pitpro.nl of in geval van urgente problemen door te bellen naar +3120 261 1450.",
         "mainHeader": "Er staat een belangrijke beveiligingsupdate voor je klaar!",
+        "oneDayDeferralButtonText": "Een dag",
+        "oneHourDeferralButtonText": "Een uur",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "Ik begrijp het",
         "subHeader": "Een vriendelijke reminder van het PIT Pro team"
