@@ -11,9 +11,8 @@
 	<key>ProgramArguments</key>
 	<array>
 		<string>/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge</string>
-		<!-- <string>-json-url</string> -->
-		<!-- <string>https://raw.githubusercontent.com/macadmins/nudge/main/Nudge/example.json</string> -->
-		<!-- <string>-demo-mode</string> -->
+		<string>-json-url</string>
+		<string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/Nudge/General/com.github.macadmins.Nudge.json</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
