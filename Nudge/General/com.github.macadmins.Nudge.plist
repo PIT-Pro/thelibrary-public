@@ -7,6 +7,8 @@
 			<dict>
 				<key>json-url</key>
 				<string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/Nudge/General/com.github.macadmins.Nudge.plist</string>
+				<key>RunAtLoad</key>
+				<true/>
 				<key>PayloadDisplayName</key>
 				<string>Nudge - Web Based Configuration</string>
 				<key>PayloadIdentifier</key>
