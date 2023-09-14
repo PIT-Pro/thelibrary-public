@@ -6,7 +6,7 @@
 		<array>
 			<dict>
 				<key>json-url</key>
-				<string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/Nudge/General/com.github.macadmins.Nudge.plist</string>
+				<string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/Nudge/General/com.github.macadmins.Nudge.json</string>
 				<key>RunAtLoad</key>
 				<true/>
 				<key>PayloadDisplayName</key>
@@ -41,15 +41,15 @@
 	<array> 
 		<dict>
 			<key>Hour</key>
-			<integer>09</integer>
+			<integer>12</integer>
 			<key>Minute</key>
-			<integer>30</integer>
+			<integer>00</integer>
 		</dict>
 		<dict>
 			<key>Hour</key>
 			<integer>16</integer>
 			<key>Minute</key>
-			<integer>0</integer>
+			<integer>00</integer>
 		</dict>
 	</array>
 </dict>
