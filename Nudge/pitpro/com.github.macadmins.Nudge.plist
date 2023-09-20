@@ -6,7 +6,7 @@
 		<array>
 			<dict>
 				<key>json-url</key>
-				<string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/Nudge/General/com.github.macadmins.Nudge.json</string>
+				<string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/Nudge/pitpro/com.github.macadmins.Nudge.json</string>
 				<key>RunAtLoad</key>
 				<true/>
 				<key>PayloadDisplayName</key>
