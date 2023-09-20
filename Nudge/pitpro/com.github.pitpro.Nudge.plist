@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>json-url</key>
+				<string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/Nudge/pitpro/com.github.pitpro.Nudge.json</string>
+				<key>RunAtLoad</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>Nudge - Web Based Configuration</string>
+				<key>PayloadIdentifier</key>
+				<string>com.github.pitpro.Nudge.6b24ac33-58a1-498e-83d3-c7d1ed5b13ee</string>
+				<key>PayloadType</key>
+				<string>com.github.pitpro.Nudge</string>
+				<key>PayloadUUID</key>
+				<string>5BA77C19-5F33-4DB4-93E7-09A3195AD4F8</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Configures Nudge application</string>
+		<key>PayloadDisplayName</key>
+		<string>Nudge</string>
+		<key>PayloadIdentifier</key>
+		<string>com.github.pitpro.Nudge</string>
+		<key>PayloadOrganization</key>
+		<string>PIT Pro</string>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>5BA77C19-5F33-4DB4-93E7-09A3195AD4F8</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	<key>StartCalendarInterval</key>
+	<array> 
+	<dict>
+      <key>Minute</key>
+      <integer>0</integer>
+    </dict>
+    <dict>
+      <key>Minute</key>
+      <integer>30</integer>
+	</dict>
+	</array>
+</dict>
+</plist>
