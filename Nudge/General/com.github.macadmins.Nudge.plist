@@ -27,6 +27,13 @@
                 <integer>16</integer>
                 <key>Minute</key>
                 <integer>00</integer>
+<<<<<<< HEAD
+=======
+                </dict>
+    <dict>
+      <key>Minute</key>
+      <integer>30</integer>
+>>>>>>> ac8a28875f5a8f491c069ef305ac591ae46ac507
     </dict>
 
   </array>
