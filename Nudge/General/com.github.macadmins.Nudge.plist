@@ -17,10 +17,6 @@
     <string>/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge</string>
     <string>-json-url</string>
     <string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/Nudge/General/com.github.macadmins.Nudge.json</string>
-    <!-- <string>-demo-mode</string> -->
-    <!-- <string>-force-screenshot-icon</string> -->
-    <!-- <string>-simple-mode</string> -->
-    <!-- <string>-version</string> -->
   </array>
   <key>RunAtLoad</key>
   <true/>
@@ -31,11 +27,7 @@
                 <integer>16</integer>
                 <key>Minute</key>
                 <integer>00</integer>
-                </dict>
-    <dict>
-      <key>Minute</key>
-      <integer>30</integer>
-    </dict>
+  </dict>
   </array>
 </dict>
 </plist>

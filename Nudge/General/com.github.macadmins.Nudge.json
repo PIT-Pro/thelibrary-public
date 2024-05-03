@@ -19,16 +19,16 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT213931"
+          "aboutUpdateURL": "https://support.apple.com/en-gb/HT214096"
         },
         {
           "_language": "nl",
-          "aboutUpdateURL": "https://support.apple.com/nl-nl/HT213931"
+          "aboutUpdateURL": "https://support.apple.com/nl-nl/HT214096"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
-      "requiredInstallationDate": "2023-10-30T00:00:00Z",
-      "requiredMinimumOSVersion": "13.6",
+      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
+      "requiredInstallationDate": "2024-05-20T12:00:00Z",
+      "requiredMinimumOSVersion": "15.1",
       "targetedOSVersionsRule": "default"
     }
   ],
@@ -46,6 +46,8 @@
     "imminentRefreshCycle": 600,
     "imminentWindowTime": 24,
     "initialRefreshCycle": 18000,
+    "launchAgentIdentifier": "com.github.macadmins.Nudge",
+    "loadLaunchAgent": false,
     "maxRandomDelayInSeconds": 1200,
     "noTimers": false,
     "nudgeRefreshCycle": 60,
