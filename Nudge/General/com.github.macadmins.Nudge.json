@@ -19,11 +19,11 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT213931"
+          "aboutUpdateURL": "https://support.apple.com/en-gb/HT214096"
         },
         {
           "_language": "nl",
-          "aboutUpdateURL": "https://support.apple.com/nl-nl/HT213931"
+          "aboutUpdateURL": "https://support.apple.com/nl-nl/HT214096"
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
