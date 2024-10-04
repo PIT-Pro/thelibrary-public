@@ -16,7 +16,7 @@
 	<array>
     	<string>/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge</string>
 	    <string>-json-url</string>
-    	<string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/nudge_msp/macOS15/com.github.macadmins.Nudge.json</string>
+    	<string>https://raw.githubusercontent.com/PIT-Pro/thelibrary-public/main/nudge_nodate/macOS15/com.github.macadmins.Nudge.json</string>
     </array>
 	<key>RunAtLoad</key>
 	<true/>
