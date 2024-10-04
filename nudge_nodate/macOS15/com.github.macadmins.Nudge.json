@@ -35,7 +35,7 @@
     "allowGracePeriods": false,
     "allowUserQuitDeferrals": true,
     "allowedDeferrals": 1000000,
-    "allowedDeferralsUntilForcedSecondaryQuitButton": 8,
+    "allowedDeferralsUntilForcedSecondaryQuitButton": 1000,
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
     "elapsedRefreshCycle": 300,
