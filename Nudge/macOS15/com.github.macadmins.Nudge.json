@@ -19,16 +19,16 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-gb/121247"
+          "aboutUpdateURL": "https://support.apple.com/en-us/121753"
         },
         {
           "_language": "nl",
-          "aboutUpdateURL": "https://support.apple.com/nl-nl/121247"
+          "aboutUpdateURL": "https://support.apple.com/nl-nl/121753"
         }
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
-      "requiredInstallationDate": "2024-10-14T12:00:00Z",
-      "requiredMinimumOSVersion": "14.7",
+      "majorUpgradeAppPath": "/Applications/Install macOS Sequoia.app",
+      "requiredInstallationDate": "2024-11-27T12:00:00Z",
+      "requiredMinimumOSVersion": "15.1.1",
       "targetedOSVersionsRule": "default"
     }
   ],
